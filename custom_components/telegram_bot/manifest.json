@@ -4,7 +4,7 @@
   "codeowners": ["@SalvatoreITA"],
   "config_flow": true,
   "dependencies": ["http"],
-  "documentation": "https://github.com/SalvatoreITA/Telegram-Custom-Boot",
+  "documentation": "https://github.com/SalvatoreITA/Telegram-Custom-Bot",
   "iot_class": "cloud_push",
   "loggers": ["telegram"],
   "quality_scale": "silver",
