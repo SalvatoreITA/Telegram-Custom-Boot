@@ -3,6 +3,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 
 Una versione personalizzata dell'integrazione standard **Telegram Bot** di Home Assistant, corretta per funzionare con **Home Assistant 2026.2** (Core) e successivi, che utilizzano **Python 3.13**.
+
 E' consigliato usare questo componente insieme a Telegram Custom Notify: https://github.com/SalvatoreITA/Telegram-Custom
 
 ## ✅ Descrizione:
