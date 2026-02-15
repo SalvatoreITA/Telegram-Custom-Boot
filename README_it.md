@@ -60,7 +60,7 @@ Dopo il riavvio, Home Assistant importerà automaticamente queste impostazioni n
 ## ⚠️ Disclaimer (Esclusione di Responsabilità)
 Questo progetto è un'integrazione indipendente e non ufficiale. Non è affiliato, associato, autorizzato, sponsorizzato o in alcun modo ufficialmente connesso con **Telegram** o una qualsiasi delle sue sussidiarie o affiliate.
 
-Il sito ufficiale di Telegram è reperibile all'indirizzo [https://telegram.org](https://telegram.org).
+Il sito ufficiale di Telegram è reperibile all'indirizzo: [https://telegram.org](https://telegram.org).
 
 ## ❤️ Crediti
-Sviluppato da [Salvatore Lentini - DomHouse.it](https://www.domhouse.it)
+Sviluppato da: [Salvatore Lentini - DomHouse.it](https://www.domhouse.it)
